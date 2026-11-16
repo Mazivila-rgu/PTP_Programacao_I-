@@ -1,6 +1,7 @@
 msg = str("Ola, mundo!")
 print( msg )
-i = 
-if i > 6:
-  print (ola)
+
+i = int(input(" Digita o numero"))
+if i == 6:
+  print ("ola")
   
