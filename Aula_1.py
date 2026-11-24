@@ -3,5 +3,5 @@ print( msg )
 
 i = int(input(" Digita o numero"))
 if i == 6:
-  print ("ola jghsurh")
+  print ("ola jghrh")
   
